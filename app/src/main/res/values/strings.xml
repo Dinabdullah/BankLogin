@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">bank-login-page</string>
+    <string name="language">العربية</string>
+    <string name="username">username</string>
+    <string name="username1">username</string>
+    <string name="password">Password</string>
+    <string name="password1">Password</string>
+    <string name="forgot_username_password">Forgot username/password?</string>
+    <string name="login">Login</string>
+    <string name="need_help">Need help?</string>
+    <string name="contant_us">Contact us</string>
+    <string name="our_products">Our Products</string>
+    <string name="exchange_rate">Exchange Rate</string>
+    <string name="security_tips">Security Tips</string>
+    <string name="nearest_branch_or_atm">Nearest branch or ATM</string>
+</resources>
